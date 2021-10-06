@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="description">Find and create free interactive quizzes to engage any learner.</string>
+    <string name="header">Welcome to Quiz Adda</string>
+    <string name="get_started">Get Started</string>
+    <string name="login_now">Login Now</string>
+    <string name="please_login_to_continue_using_app">Please Login to continue using app</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="stay_connected">Stay Connected</string>
+    <string name="signup_bdy">Enter your E-mail address and Password to get access to your account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign In</string>
+    <string name="tagline">Solve Quizzes and earn points!!</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="submit">Submit</string>
+    <string name="your_score_is_20">Your Score is :</string>
+    <string name="profile">Profile</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="follow_us">Follow Us</string>
+    <string name="website">Website</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="facebook">facebook</string>
+    <string name="support">Support</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="made_with_love">Made with love</string>
+    <string name="by_amit_kumar">By Amit Kumar</string>
+    <string name="powered_by">Powered By</string>
+</resources>

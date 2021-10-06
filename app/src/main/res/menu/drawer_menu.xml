@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="@string/profile" android:icon="@drawable/profile" android:id="@+id/btn_profile"/>
+    <item android:title="@string/rate_us" android:icon="@drawable/ic_rate" android:id="@+id/btn_rateUs"/>
+    <item android:title="@string/follow_us">
+        <menu>
+            <item android:title="@string/website" android:icon="@drawable/ic_web" android:id="@+id/web"/>
+            <item android:title="@string/instagram" android:icon="@drawable/ic_insta" android:id="@+id/insta"/>
+            <item android:title="@string/twitter" android:icon="@drawable/ic_twitter" android:id="@+id/twitter"/>
+            <item android:title="@string/linkedin" android:icon="@drawable/ic_linkedin" android:id="@+id/linkedin"/>
+            <item android:title="@string/facebook" android:icon="@drawable/ic_fb" android:id="@+id/fb"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/support">
+        <menu>
+            <item android:title="@string/contact_us" android:icon="@drawable/ic_mail" android:id="@+id/contact"/>
+
+        </menu>
+    </item>
+
+
+
+</menu>

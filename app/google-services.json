@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088571232661",
+    "project_id": "quiz-app-f706c",
+    "storage_bucket": "quiz-app-f706c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088571232661:android:c6dd62f11e0ee478bfa69c",
+        "android_client_info": {
+          "package_name": "com.deskmateai.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088571232661-s4rtmmpiite1b7d0s8bhvihcuvom9rhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL3Nv7MchXmD-sjPsBGRyaBi-E3s7Srig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088571232661-s4rtmmpiite1b7d0s8bhvihcuvom9rhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
